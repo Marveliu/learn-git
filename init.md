@@ -7,7 +7,8 @@ init
 >       git config global user.name ""
 >
 >       git config global user.email"" 
->
+
+# 2. set ssh-key
 > * connect to github
 >
 >       check if already done :                   cd ./ssh
